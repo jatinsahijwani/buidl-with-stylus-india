@@ -12,7 +12,7 @@ This repository is a public, open-source space where we are:
 
 ## 🎯 Objective
 
-Our mission is to educate **10,000+ Indian students and developers** across **50+ cities** about the Arbitrum ecosystem, Layer 2 scaling, smart contract development, and the power of Stylus — using **interactive workshops**, **live demos**, and **regional language content**.
+Our mission is to educate **5,000+ Indian students and developers** across **50+ cities** about the Arbitrum ecosystem, Layer 2 scaling, smart contract development, and the power of Stylus — using **interactive workshops**, **live demos**, and **regional language content**.
 
 We aim to onboard the next generation of Web3 builders by:
 - Providing foundational to advanced technical education
@@ -55,7 +55,7 @@ This aligns with the cities and states we’ll visit in our **HackTour Arbitrum 
 
 ## 🧵 Community Campaign (X/Twitter)
 
-We’ve launched a grassroots education campaign on our official **X (Twitter)** handle [@HackTourIndia](https://twitter.com/HackTourIndia).
+We’ve launched a grassroots education campaign on our official **X (Twitter)** handle [@HackTourIndia](https://twitter.com/HackTourIND).
 
 Follow us for:
 - Thread series on Arbitrum, Stylus, L2s
@@ -82,8 +82,7 @@ We're a group of Indian hackathon champions, Web3 educators, and product develop
 
 - 🏆 5+ national & international hackathon wins
 - 🧪 Proven expertise in Solidity, React, Node.js, Rust, and smart contract dev
-- 🧑‍🏫 Past workshops delivered at 30+ colleges/universities
-- 🔗 Connect with us: [GitHub Profile](https://github.com/YOUR_USERNAME_HERE) (replace with actual)
+- 🧑‍🏫 Past workshops delivered at 20+ colleges/universities
 
 We believe in **learn, teach, build** — and this repo is a living proof of that.
 
