@@ -55,7 +55,7 @@ This aligns with the cities and states we’ll visit in our **HackTour Arbitrum 
 
 ## 🧵 Community Campaign (X/Twitter)
 
-We’ve launched a grassroots education campaign on our official **X (Twitter)** handle [@HackTourIndia](https://twitter.com/HackTourIND).
+We’ve launched a grassroots education campaign on our official **X (Twitter)** handle [@HackTourIND](https://twitter.com/HackTourIND).
 
 Follow us for:
 - Thread series on Arbitrum, Stylus, L2s
