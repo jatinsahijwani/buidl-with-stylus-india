@@ -16,7 +16,7 @@ Let’s begin your dev journey with:
 
 > It's not just a layer. It's a **whole new arc reactor** ⚙️ powering Ethereum — think Tony Stark’s suit upgrades.
 
-![meme](https://i.imgflip.com/6r8jn2.jpg)
+![meme]()
 
 ---
 
@@ -75,7 +75,7 @@ Before diving into Arbitrum dev, make sure these tools are set up:
 
 ---
 
-> 📢 **Next Up:** We'll deploy a smart contract on Arbitrum using Foundry in under 10 minutes. Stay tuned!
+> 📢 **Next Up:** We'll deploy a smart contract on Arbitrum using Foundry in under 2 minutes. Stay tuned!
 
-![debug meme](https://i.imgflip.com/3twgxo.jpg)
+![debug meme](https://i.pinimg.com/originals/86/d1/76/86d1767ba3ecb6af8df3e4e5dda376eb.gif)
 
