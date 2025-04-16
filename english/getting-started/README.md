@@ -16,7 +16,10 @@ Let’s begin your dev journey with:
 
 > It's not just a layer. It's a **whole new arc reactor** ⚙️ powering Ethereum — think Tony Stark’s suit upgrades.
 
-![meme]()
+![1](https://github.com/user-attachments/assets/f2894764-6df7-45db-aed1-28bf4dae2648)
+---
+![2](https://github.com/user-attachments/assets/1d78fd76-3107-4fb0-8c4b-9c5ea4159d66)
+
 
 ---
 
