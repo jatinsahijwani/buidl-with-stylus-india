@@ -54,15 +54,28 @@ Arbitrum isn’t replacing Ethereum. It’s making it stronger 💪.
 
 Before we jump into the dev magic 🪄, let’s gear up properly:
 
-### ✅ Essential Setup:
+## 🔗 Useful Links
 
-| Tool        | Why You Need It                        |
-|-------------|-----------------------------------------|
-| 🖥 VS Code   | Your coding playground 🧑‍💻             |
-| 🦊 OKX Wallet | Web3 wallet to interact with dApps 🔑   |
-| 📦 Yarn      | Fast and reliable package manager ⚙️   |
-| 🛠 Foundry   | Blazingly fast smart contract toolkit 🔥 |
+- 🌐 [Official Arbitrum Docs](https://docs.arbitrum.io/)
+- 🔥 [Arbitrum Dev Portal](https://portal.arbitrum.io/)
+- 🧪 [Testnet Faucet](https://faucet.quicknode.com/arbitrum/goerli)
+- 👨‍🏫 [Learn Web3 with Arbitrum](https://arbitrum.io/education/)
+- 🎯 [Follow Our Campaign on X](https://twitter.com/yourcommunity)
 
-```bash
-curl -L https://foundry.paradigm.xyz | bash
-foundryup
+---
+
+## 🧰 Tools You'll Need — Get Them Here
+
+Before diving into Arbitrum dev, make sure these tools are set up:
+
+- 🖥️ Download **VS Code**: [https://code.visualstudio.com](https://code.visualstudio.com)
+- 📦 Install **Yarn**: [https://yarnpkg.com](https://yarnpkg.com)
+- 🛠️ Set up **Foundry**: [https://getfoundry.sh](https://getfoundry.sh)
+- 🦊 Use **OKX Web3 Wallet**: [https://www.okx.com/web3](https://www.okx.com/web3)
+
+---
+
+> 📢 **Next Up:** We'll deploy a smart contract on Arbitrum using Foundry in under 10 minutes. Stay tuned!
+
+![debug meme](https://i.imgflip.com/3twgxo.jpg)
+
