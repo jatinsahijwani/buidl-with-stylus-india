@@ -64,7 +64,7 @@ Before we jump into the dev magic 🪄, let’s gear up properly:
 - 🔥 [Arbitrum Dev Portal](https://portal.arbitrum.io/)
 - 🧪 [Testnet Faucet](https://faucet.quicknode.com/arbitrum/goerli)
 - 👨‍🏫 [Learn Web3 with Arbitrum](https://arbitrum.io/education/)
-- 🎯 [Follow Our Campaign on X](https://twitter.com/yourcommunity)
+- 🎯 [Follow Our Campaign on X](https://x.com/HackTourIND)
 
 ---
 
