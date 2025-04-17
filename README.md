@@ -33,23 +33,20 @@ We’re actively upskilling ourselves and documenting everything openly, focusin
 
 ---
 
-## 🗂️ Repository Structure
-
-
----
+## 🌍 Regional Language Content
 
 ## 🌍 Regional Language Content
 
-To make education accessible and inclusive, we are creating workshop materials and Arbitrum explainers in **regional languages**, including:
+To ensure inclusive access to Web3 education, we’re creating workshop material and Arbitrum explainers in multiple Indian languages — mapped to the cities and regions we’re touring during **HackTour India** 🇮🇳
 
-- Hindi
-- Tamil
-- Telugu
-- Bengali
-- Kannada (coming soon)
-- Marathi (coming soon)
-
-This aligns with the cities and states we’ll visit in our **HackTour Arbitrum India** campaign.
+| Language     | Folder Link |
+|--------------|-------------|
+| 🇮🇳 Hindi      | [`/hindi`](./hindi) |
+| 🇮🇳 English    | [`/english`](./english) |
+| 🇮🇳 Marathi    | [`/marathi`](./marathi) |
+| 🇮🇳 Punjabi    | [`/punjabi`](./punjabi) |
+| 🇮🇳 Gujarati   | [`/gujarati`](./gujarati) |
+| 🇮🇳 Rajasthani | [`/rajasthani`](./rajasthani) |
 
 ---
 
