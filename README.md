@@ -35,8 +35,6 @@ We’re actively upskilling ourselves and documenting everything openly, focusin
 
 ## 🌍 Regional Language Content
 
-## 🌍 Regional Language Content
-
 To ensure inclusive access to Web3 education, we’re creating workshop material and Arbitrum explainers in multiple Indian languages — mapped to the cities and regions we’re touring during **HackTour India** 🇮🇳
 
 | Language     | Folder Link |
